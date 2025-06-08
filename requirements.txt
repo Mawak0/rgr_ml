@@ -1,0 +1,11 @@
+notebook
+scikit-learn
+pandas
+matplotlib
+seaborn
+tensorflow
+xgboost
+catboost
+lightgbm
+streamlit
+joblib
